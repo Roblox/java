@@ -2,6 +2,10 @@ Java Cookbook CHANGELOG
 =======================
 This file is used to list changes made in each version of the Java cookbook.
 
+v1.50.1 - 11/30/2017
+----
+- Fix Java 8 installs on windows which fail because of an empty java_home path attribute
+
 v1.50.0 - 05/24/2017
 ----
 - Oracle downloads changed again. Only Oracle 8 is able to be downloaded automatically.
