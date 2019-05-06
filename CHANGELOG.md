@@ -4,6 +4,8 @@ This file is used to list changes made in each version of the Java cookbook.
 
 ## Unreleased
 
+- Make Homebrew Cask name an attribute to allow for other options (ex: adoptopenjdk)
+
 ## 4.0.0 - 2019-04-19
 
 - Added new install flavor "adoptopenjdk" for AdoptOpenJDK's distribution of Java
