@@ -2,7 +2,12 @@
 
 This file is used to list changes made in each version of the Java cookbook.
 
-## Unreleased
+## 4.9002.0 - 2020-01-15
+- Based on proposed changes from <https://github.com/sous-chefs/java/pull/567/>
+- Switch homebrew tap to homebrew/cask-versions
+- Make Homebrew Tap name an attribute to allow for other options
+
+## 4.9001.0 - 2019-05-23
 
 - Make Homebrew Cask name an attribute to allow for other options (ex: adoptopenjdk)
 
